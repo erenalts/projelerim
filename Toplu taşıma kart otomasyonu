@@ -61,14 +61,14 @@ int main() {
 		    			{
 		    				iade=2-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==4 || durak==5 || durak==6 || durak==7 || durak==8 || durak==9)
 						{
 							iade=2-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else
@@ -94,28 +94,28 @@ int main() {
 		    			{
 		    				iade=4-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);	
 						}
 						else if(durak==2 || durak==3)
 						{
 							iade=4-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==4 || durak==5)
 						{
 							iade=4-3;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==6)
 						{
 							iade=4-4;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else
@@ -192,63 +192,63 @@ int main() {
 		    			{
 		    				iade=29.69 - 14.32;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);	
 						}
 						else if(durak==2)
 						{
 							iade=29.69 - 17.13;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==3)
 		    			{
 		    				iade=29.69-20;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=29.69-22.86;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==5)
 						{
 							iade=29.69-25.11;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==6)
 						{
 							iade=29.69-26.27;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==7)
 						{
 							iade=29.69-27.13;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==8)
 						{
 							iade=29.69-27.72;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==9)
 						{
 							iade=29.69-29.69;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else
@@ -275,42 +275,42 @@ int main() {
 		    			{
 		    				iade=44.27 - 20;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);	
 						}
 						else if(durak==2)
 						{
 							iade=44.27 - 25.72;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==3)
 		    			{
 		    				iade=44.27-29.69;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=44.27-34.24;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==5)
 						{
 							iade=44.27-39.99;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==6)
 						{
 							iade=44.27-44.27;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else
@@ -381,7 +381,7 @@ int main() {
 		    			{
 		    				iade=2-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);	
 		    				if(abonman==0)
 							{
@@ -392,7 +392,7 @@ int main() {
 						{
 							iade=2-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 		    				if(abonman==0)
 							{
@@ -422,28 +422,28 @@ int main() {
 		    			{
 		    				iade=4-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);	
 						}
 						else if(durak==2 || durak==3)
 						{
 							iade=4-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==4 || durak==5)
 						{
 							iade=4-3;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==6)
 						{
 							iade=4-4;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else
@@ -512,35 +512,35 @@ int main() {
 		    			{
 		    				iade=9.76-6.31;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %1.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %1.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==2)
 						{
 							iade=9.76-6.87;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %1.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %1.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);		    		
 						}
 						else if(durak==3)
 						{
 							iade=9.76-8;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %1.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %1.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=9.76-9.13;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %1.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %1.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==5 || durak==6  || durak==7  || durak==8 || durak==9)
 						{
 							iade=9.76-9.76;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %1.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %1.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 					}
@@ -563,42 +563,42 @@ int main() {
 		    			{
 		    				iade=20 - 9.76;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);	
 						}
 						else if(durak==2)
 						{
 							iade=20 - 12.02;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==3)
 		    			{
 		    				iade=20-14.32;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=20-16.28;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==5)
 						{
 							iade=20-19.14;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==6)
 						{
 							iade=20-20;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else
@@ -677,14 +677,14 @@ int main() {
 		    			{
 		    				iade=2-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);	
 						}
 						else if(durak==4 || durak==5 || durak==6 || durak==7 || durak==8 || durak==9)
 						{
 							iade=2-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else
@@ -710,28 +710,28 @@ int main() {
 		    			{
 		    				iade=4-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);	
 						}
 						else if(durak==2 || durak==3)
 						{
 							iade=4-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==4 || durak==5)
 						{
 							iade=4-3;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==6)
 						{
 							iade=4-4;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else
@@ -814,49 +814,49 @@ int main() {
 		    			{
 		    				iade=16.28-8.86;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==2)
 						{
 							iade=16.28-10.59;
 		    				ucret+=iade;
-			    			printf("İade edilen tutar : %2.2f \n",iade);
+			    			printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==3)
 						{
 							iade=16.28-12.17;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=16.28-14.32;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==5)
 						{
 							iade=16.28-14.52;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==6 || durak==7)
 						{
 							iade=16.28-15.44;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==8 || durak==9)
 						{
 							iade=16.28-16.28;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else
@@ -883,42 +883,42 @@ int main() {
 		    			{
 		    				iade=30.86 - 14.32;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);	
 						}
 						else if(durak==2)
 						{
 							iade=30.86 - 17.73;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==3)
 		    			{
 		    				iade=30.86-20.86;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=30.86-24.28;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==5)
 						{
 							iade=30.86-28.57;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==6)
 						{
 							iade=30.86-30.86;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else
@@ -997,14 +997,14 @@ int main() {
 		    			{
 		    				iade=2-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);	
 						}
 						else if(durak==4 || durak==5 || durak==6 || durak==7 || durak==8 || durak==9)
 						{
 							iade=2-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else
@@ -1030,28 +1030,28 @@ int main() {
 		    			{
 		    				iade=4-1;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);	
 						}
 						else if(durak==2 || durak==3)
 						{
 							iade=4-2;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==4 || durak==5)
 						{
 							iade=4-3;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else if(durak==6)
 						{
 							iade=4-4;
 		    				abonman+=iade;
-		    				printf("İade edilen abonman : %1.f \n",iade);
+		    				printf("Ä°ade edilen abonman : %1.f \n",iade);
 		    				printf("Kalan abonman : %d \n",abonman);
 						}
 						else
@@ -1134,63 +1134,63 @@ int main() {
 		    			{
 		    				iade=26.71-12.89;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==2)
 						{
 							iade=26.71-15.42;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==3)
 						{
 							iade=26.71-18;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=26.71-20.57;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==5)
 						{
 							iade=26.71-22.60;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==6)
 						{
 							iade=26.71-23.64;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==7)
 						{
 							iade=26.71-24.42;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==8)
 						{
 							iade=26.71-24.95;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==9)
 						{
 							iade=26.71-26.71;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			if(ucret==0)
@@ -1221,42 +1221,42 @@ int main() {
 		    			{
 		    				iade=44.27 - 20;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);	
 						}
 						else if(durak==2)
 						{
 							iade=44.27 - 25.72;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==3)
 		    			{
 		    				iade=44.27-29.69;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==4)
 						{
 							iade=44.27-34.24;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 		    			else if(durak==5)
 						{
 							iade=44.27-39.99;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else if(durak==6)
 						{
 							iade=44.27-44.27;
 		    				ucret+=iade;
-		    				printf("İade edilen tutar : %2.2f \n",iade);
+		    				printf("Ä°ade edilen tutar : %2.2f \n",iade);
 		    				printf("Kalan bakiyeniz : %f \n",ucret);
 						}
 						else
